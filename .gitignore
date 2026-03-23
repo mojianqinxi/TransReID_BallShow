@@ -222,3 +222,4 @@ ENV/
 
 /data/
 /logs/
+/weights/
